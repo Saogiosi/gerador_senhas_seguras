@@ -58,7 +58,6 @@ Permite copiar automaticamente a senha gerada para a área de transferência.
 - Visual Studio Code (VS Code)
 ---
 ## Estrutura do Projeto
-## Estrutura do Projeto
 ```text
 GERADOR_SENHAS_SEGURAS/
 │
@@ -93,7 +92,7 @@ Esses testes garantem maior confiabilidade, qualidade e estabilidade da aplicaç
 ---
 ## Como Executar o Projeto
 ### 1. Clonar o repositório
-bash git clone URL_DO_REPOSITORIO 
+bash git clone https://github.com/Saogiosi/gerador_senhas_seguras.git
 ---
 ### 2. Acessar a pasta do projeto
 bash cd GERADOR_SENHAS_SEGURAS 
@@ -133,7 +132,7 @@ Como evolução do projeto, podem ser implementadas:
 ---
 ## Autor
 Giovani Jeronimo da Silva
-Testador de Software Jr
+- Testador de Software Jr
 ---
 ## Licença
 Este projeto está sob a licença MIT.
